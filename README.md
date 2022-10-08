@@ -1,6 +1,6 @@
 # webhoot
 
-The original developer was too lazy to accept my PRs, so I had to fork and make my own variation that does not depend on Express.
+A fork of [twict](https://github.com/hota1024/twict) that does not depend on Express.
 
 ## Install
 
